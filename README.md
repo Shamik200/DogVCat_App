@@ -35,7 +35,7 @@ You can test the classification API online:
 ### API Reference
 - **POST /predict** - Accepts an image file and returns classification results.
 - **Query API Online:** [**Test Here**](https://shamik007-cvd.hf.space/)
-- **Python Backend Repository:** [**GitHub Link**](https://github.com/Shamik200/CatDog-Classifier-Backend)
+- **Python Backend Repository:** [**GitHub Link**](https://github.com/Shamik200/CatVDog)
 
 ## Android Integration 📱
 - **Retrofit** is used for making API requests from the Android app.
